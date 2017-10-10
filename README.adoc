@@ -1,9 +1,6 @@
 = FatFSDriver Library for Arduino =
 
-This library serves as an Arduino wrapper library for Chan's FatFs and uses a generic SPI implementation to communicate with an SD Card
-FatFs is a generic FAT/exFAT filesystem module for small embedded systems.
-The FatFs module is written in compliance with ANSI C (C89) and completely separated from the disk I/O layer.
-Therefore it is independent of the platform. 
+This library serves as an Arduino wrapper library for Chan's FatFs and uses a generic SPI implementation to communicate with an SD Card. FatFs is a generic FAT/exFAT filesystem module for small embedded systems. The FatFs module is written in compliance with ANSI C (C89) and completely separated from the disk I/O layer. Therefore it is independent of the platform. 
 
 For more information about this library please see:
 http://elm-chan.org/fsw/ff/00index_e.html
